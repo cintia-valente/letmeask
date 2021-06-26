@@ -1,46 +1,34 @@
-# Getting Started with Create React App
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Letmeask
+Projeto do evento NLW da Rocketseat da trilha de ReactJS. O projeto tem como objetivo perimitir ao usuário criar uma sala de perguntas e respostas, e enviar uma pergunta através um login utilizando o Google.
 
-## Available Scripts
+# Telas
+<img src="https://user-images.githubusercontent.com/38113015/123526171-69a3e600-d6ac-11eb-9a94-4b3228d76996.png" width="800">
+<img src="https://user-images.githubusercontent.com/38113015/123526173-6ad51300-d6ac-11eb-9e50-3f6ade538fe4.png" width="800">
+<img src="https://user-images.githubusercontent.com/38113015/123526190-893b0e80-d6ac-11eb-8301-5d333668f8b8.png" width="800">
+<img src="https://user-images.githubusercontent.com/38113015/123526193-8d672c00-d6ac-11eb-961e-54a64c6f2e1d.png" width="800">
+<img src="https://user-images.githubusercontent.com/38113015/123526197-92c47680-d6ac-11eb-9668-03fe54311881.png" width="800">
+<img src="https://user-images.githubusercontent.com/38113015/123526198-93f5a380-d6ac-11eb-9a4a-35db42440eac.png" width="800">
 
-In the project directory, you can run:
+
+## Execução em modo produção
+
+<ul>
+  <li>Acesse https://letmeask-d316c.web.app/ para fazer login com uma conta do Google e criar uma sala ou para entrar em sala já existente através de um código gerado.</li>
+  <li>Ao entrar na sala será criada o código referente a sala que foi criada.</li>
+  <li>Para entrar como <b>admin</b> acesse https://letmeask-d316c.web.app/admin/rooms/<b>codigodasalacriada</b></li>
+    <ul><li>No link, em <b>codigodasalacriada</b> digite o código gerado ao criar a sala.</li></ul>
+</ul>
+
+## Execução em modo desenvolvedor
 
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Abra http://localhost:3000 para visualizar a aplicação no navegador.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Tecnologias utilizadas
+<ul>
+  <li>ReactJS</li>
+  <li>Firebase</li>
+</ul>
