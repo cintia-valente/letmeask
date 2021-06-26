@@ -4,7 +4,7 @@
 </div>
 
 # Letmeask
-Projeto do evento NLW da Rocketseat da trilha de ReactJS. O projeto tem como objetivo perimitir ao usuário criar uma sala de perguntas e respostas, e enviar uma pergunta através um login utilizando o Google.
+Projeto do evento NLW da Rocketseat da trilha de ReactJS. O projeto tem como objetivo permitir ao usuário criar uma sala de perguntas e respostas, e enviar uma pergunta através um login utilizando o Google.
 
 # Telas
 <img src="https://user-images.githubusercontent.com/38113015/123526171-69a3e600-d6ac-11eb-9a94-4b3228d76996.png" width="800">
