@@ -1,4 +1,7 @@
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<div styke ="display: inline_block"<br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" width="30" src="https://user-images.githubusercontent.com/38113015/123527352-09657200-d6b5-11eb-9c18-313c5b8ea572.png">
+</div>
 
 # Letmeask
 Projeto do evento NLW da Rocketseat da trilha de ReactJS. O projeto tem como objetivo perimitir ao usuário criar uma sala de perguntas e respostas, e enviar uma pergunta através um login utilizando o Google.
