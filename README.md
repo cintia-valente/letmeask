@@ -28,7 +28,7 @@ Projeto do evento NLW da Rocketseat da trilha de ReactJS. O projeto tem como obj
 
 <ul>
   <li>Em um terminal execute o comando <b>yarn start</b>.</li>
-  <li>Abra um navegador e acesse a portal <b>http://localhost:3000</b></li>
+  <li>Abra um navegador e acesse a porta <b>http://localhost:3000</b></li>
 </ul>
 
 ## Tecnologias utilizadas
