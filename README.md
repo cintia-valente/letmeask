@@ -19,7 +19,7 @@ Projeto do evento NLW da Rocketseat da trilha de ReactJS. O projeto tem como obj
 
 <ul>
   <li>Acesse https://letmeask-d316c.web.app/ para fazer login com uma conta do Google e criar uma sala ou para entrar em uma sala já existente através de um código gerado.</li>
-  <li>Ao entrar na sala será criado o código referente a sala.</li>
+  <li>Ao entrar será criado o código referente a sala.</li>
   <li>Para entrar como <b>admin</b> acesse https://letmeask-d316c.web.app/admin/rooms/<b>codigodasalacriada</b></li>
     <ul><li>No link, em <b>codigodasalacriada</b> digite o código que foi gerado ao criar a sala.</li></ul>
 </ul>
